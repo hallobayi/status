@@ -13,6 +13,10 @@ sites:
       - 503
   - name: Mail Server
     url: https://mail.halobayi.co.id
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
   - name: SIM Hai
     url: https://sim.halobayi.co.id
     expectedStatusCodes:
