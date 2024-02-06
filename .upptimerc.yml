@@ -38,6 +38,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
+  url: "https://status.halobayi.co.id"
   activeIncidents: Insiden Aktif
   allSystemsOperational: Semua sistem beroperasi
   incidentReport: "Laporan insiden #$NUMBER →"
