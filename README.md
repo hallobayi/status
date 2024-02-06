@@ -1,4 +1,4 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://status.halobayi.co.id): <!--live status--> **🟧 Partial outage**
 
 <!--start: description-->
 
@@ -66,39 +66,6 @@ _Upptime is not affiliated to or endorsed by GitHub._
 1. [Packages](https://upptime.js.org/docs/packages)
 1. [Contributing](https://upptime.js.org/docs/contributing)
 1. [Frequently Asked Questions](https://upptime.js.org/docs/faq)
-
-### Concepts
-
-#### Issues as incidents
-
-When the GitHub Actions workflow detects that one of your URLs is down, it automatically opens a GitHub issue ([example issue #67](https://github.com/upptime/upptime/issues/67)). You can add incident reports to this issue by adding comments. When your site comes back up, the issue will be closed automatically as well.
-
-<table>
-  <tr>
-    <td>
-      <img alt="Screenshot of GitHub issue" src="https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-issue.png">
-    </td>
-    <td>
-      <img alt="Screenshot of incident page" src="https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-incident.png">
-    </td>
-  </tr>
-</table>
-
-#### Commits for response time
-
-Four times per day, another workflow runs and records the response time of your websites. This data is committed to GitHub, so it's available in the commit history of each file ([example commit history](https://github.com/koj-co/upptime/commits/master/history/wikipedia.yml)). Then, the GitHub API is used to graph the response time history of each endpoint and to track when a site went down.
-
-<table>
-  <tr>
-    <td>
-      <img alt="Screenshot of GitHub commits" src="https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-history.png">
-    </td>
-    <td>
-      <img alt="Screenshot of live status" src="https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-live-status.png">
-    </td>
-  </tr>
-</table>
-<!--end: docs-->
 
 ## 📄 License
 
