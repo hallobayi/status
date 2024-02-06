@@ -27,7 +27,7 @@ sites:
 status-website:
   name: Status Web Halo Bayi Indonesia
   cname: status.halobayi.co.id
-  baseUrl: /status
+  baseUrl: /
   logoUrl: https://rawcdn.githack.com/hallobayi/assets/15c41d562d1dd5609e33b2caa5071913abf7d28c/logo_only_hb.png
   introTitle: "**HaloBayi Indonesia** adalah acuan data yang digunakan oleh [Halo Bayi Indonesia](https://www.halobayi.co.id/)."
   introMessage: Halaman ini berfungsi untuk memonitor website yang berhubungan dengan [Halo Bayi Indonesia](https://halobayi.co.id/)
