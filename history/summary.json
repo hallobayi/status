@@ -4,19 +4,19 @@
     "url": "https://halobayi.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/halobayi.co.id.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1225,
-    "timeDay": 1269,
-    "timeWeek": 1212,
-    "timeMonth": 1225,
-    "timeYear": 1225,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1236,
+    "timeDay": 1336,
+    "timeWeek": 1236,
+    "timeMonth": 1236,
+    "timeYear": 1236,
     "dailyMinutesDown": {
-      "2024-02-20": 1
+      "2024-02-20": 15
     }
   },
   {
