@@ -26,7 +26,9 @@ sites:
       - 302
 
 status-website:
-  themeUrl: https://status.halobayi.co.id/costume-theme.css
+  links:
+    - rel: stylesheet
+      href: https://rawcdn.githack.com/hallobayi/status/ca628d5d15015bc7505de40dd349df0ea877f7ca/assets/costume-theme.css
   theme: "light"
   name: Status Web Halo Bayi Indonesia
   cname: status.halobayi.co.id
