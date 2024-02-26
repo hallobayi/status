@@ -1,8 +1,6 @@
 # Change these first
 owner: hallobayi # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-
-
 sites:
   - name: Website
     url: https://halobayi.co.id/
@@ -24,7 +22,8 @@ sites:
       - 200
       - 301
       - 302
-
+assignees: # Users to assign downtime issues (optional)
+  - mdestafadilah
 status-website:
   links:
     - rel: stylesheet
