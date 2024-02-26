@@ -26,6 +26,7 @@ sites:
       - 302
 
 status-website:
+  theme: "light"
   name: Status Web Halo Bayi Indonesia
   cname: status.halobayi.co.id
   logoUrl: https://rawcdn.githack.com/hallobayi/assets/15c41d562d1dd5609e33b2caa5071913abf7d28c/logo_only_hb.png
