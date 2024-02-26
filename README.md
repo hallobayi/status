@@ -26,8 +26,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 ## 📄 License
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Halo Bayi Indonesia](https://halobayi.co.id)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-
-undefined
