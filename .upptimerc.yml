@@ -22,6 +22,12 @@ sites:
       - 200
       - 301
       - 302
+  - name: Uptime Status
+    url: https://uptime.persahabatan.co.id/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
 assignees: # Users to assign downtime issues (optional)
   - mdestafadilah
 status-website:
